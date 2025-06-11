@@ -1,3 +1,4 @@
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/example"  frameborder="0" allowfullscreen></iframe>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +29,7 @@
     <li>Hoodies so Nigerian, they might start collecting their own ‘omo tax’.</li>
     <li>Phone cases that drop truth harder than they drop calls in the village.</li>
   </ul>
-
+  <img src="https://example.com/nigerian-street-art.jpg"  alt="Nigerian humor art" style="max-width:100%; margin: 20px 0;">
   <h2 style="text-align:center;">Be First In Line To Laugh (and Shop)</h2>
   <p>Drop your email below and be the first to see the drops, get early access, and help us decide which quote makes the best shirt.</p>
 
